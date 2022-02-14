@@ -1,8 +1,8 @@
 ---
 role: Pediatrician, public health practitioner, and data science enthusiast.
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include the health/equity implications of
+  infrastructure, supportive housing, and exposure to the natural environment
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +42,6 @@ highlight_name: true
 title: Daniel P. Hall Riggins
 email: ""
 ---
+Daniel is a Preventive Medicine Fellow at [Cook County Health](https://cookcountyhealth.org/education-research/residency-programs/public-health-preventive-medicine/) in Chicago, IL. As part of the fellowship, he is completing a Master of Public Health degree at [Northwestern University](https://www.feinberg.northwestern.edu/sites/cehs/our-programs/program-in-public-health/index.html). He will graduate in Spring of 2023. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<--! {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
