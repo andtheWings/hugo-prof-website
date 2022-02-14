@@ -1,5 +1,5 @@
 ---
-role: Pediatrician, public health practitioner, and data science enthusiast.
+role: Pediatrician, public health practitioner, and data science enthusiast
 avatar_filename: avatar.jpg
 bio: My research interests include the health/equity implications of
   infrastructure, supportive housing, and exposure to the natural environment
