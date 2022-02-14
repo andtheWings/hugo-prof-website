@@ -1,6 +1,6 @@
 ---
 role: Pediatrician, public health practitioner, and data science enthusiast.
-avatar_filename: us_at_david_sitlaly_wedding.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
